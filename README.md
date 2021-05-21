@@ -15,11 +15,11 @@
 - ⚡ Fun fact: ...
 -->
 
-## Contact Me 
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][https://discord.gg/QvUZMUj]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/BiizoNinja]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/BiizoNinja]
+## Contact Me
+
+<a rel="noreferrer noopener" href="https://discord.gg/QvUZMUj"><img alt="BiizoNinja | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a><a rel="noreferrer noopener" href="https://twitter.com/BiizoNinja"><img alt="BiizoNinja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a><a rel="noreferrer noopener" href="https://instagram.com/BiizoNinja"><img alt="BiizoNinja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 
 ### GitHub Stats
- <img align="left" alt="BiizoNinja's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BiizoNinja&show_icons=true&theme=dark&hide_border=true" />
+
+<img align="left" alt="BiizoNinja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BiizoNinja&show_icons=true&theme=dark&hide_border=true" />
 
