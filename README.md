@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**BiizoNinja/BiizoNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const Biizo = [
+ ' 🌱 I’m currently learning JavaScript, C#...',
+ ' 😄 Pronouns: He/Him ',
+ ' ⚡ Fun fact: I'm a human',
+ ' 📫 How to reach me: Link in profile ',
+]
+```
 
-## Here are some ideas to get you started:
-
-- 🔭 I’m currently working on MineStasher Discord Bot...
-- 🌱 I’m currently learning JavaScript, C#...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Contact Me
 
