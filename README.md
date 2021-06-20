@@ -2,10 +2,10 @@
 
 ```js
 const Biizo = [
- ' 🌱 I’m currently learning JavaScript, C#...',
- ' 😄 Pronouns: He/Him ',
- ' ⚡ Fun fact: I'm a human',
- ' 📫 How to reach me: Link in profile ',
+  🌱 I’m currently learning JavaScript, C#...,
+  😄 Pronouns: He/Him ,
+  ⚡ Fun fact: I'm a human',
+  📫 How to reach me: Link in profile ,
 ]
 ```
 
