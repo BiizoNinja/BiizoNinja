@@ -3,9 +3,9 @@
 ```js
 const Biizo = {
     Age: 14,
-    Description: "Hi, I'm Biizo and i like to code sumb stuff, you can find me on discord a LOT",
+    Description: "Hi, I'm Biizo and i like to code dumb stuff, you can find me on discord a LOT.",
     FavouriteLanguage: "Javascript/HTML-CSS/Java",
-    CreatedAt: 2019-09-17T00:56:31Z,
+    CreatedAt: 2021-10-5,
     Stars: 4,
     FavouriteThings: ['Discord', 'Twitter', 'VS Code', 'GitHub', 'Life',]
 };
