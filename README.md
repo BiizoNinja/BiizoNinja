@@ -15,7 +15,7 @@ const Biizo = {
 
 ## Contact Me
 
-<a rel="noreferrer noopener" href="https://discord.gg/QvUZMUj"><img alt="BiizoNinja | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a><a rel="noreferrer noopener" href="https://twitter.com/BiizoNinja"><img alt="BiizoNinja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a><a rel="noreferrer noopener" href="https://instagram.com/BiizoNinja"><img alt="BiizoNinja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+<a rel="noreferrer noopener" href="https://discord.gg/V9DHGNtuUe"><img alt="BiizoNinja | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a><a rel="noreferrer noopener" href="https://twitter.com/BiizoNinja"><img alt="BiizoNinja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a><a rel="noreferrer noopener" href="https://instagram.com/BiizoNinja"><img alt="BiizoNinja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 
 ### GitHub Stats
 
