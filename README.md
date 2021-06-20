@@ -18,6 +18,6 @@ const Biizo = {
 
 ### GitHub Stats
 
-![BiizoNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biizo&show_icons=true&theme=radical)
+![BiizoNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiizoNinja&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiizoNinja&repo=shrek-bot)(https://github.com/BiizoNinja/shrek-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiizoNinja&repo=shrek-bot)
