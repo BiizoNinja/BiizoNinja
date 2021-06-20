@@ -20,4 +20,4 @@ const Biizo = {
 
 <img align="left" alt="BiizoNinja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BiizoNinja&show_icons=true&theme=dark&hide_border=true" />
 
-<img align="right" alt="BiizoNinja's Top Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=BiizoNinja&repo=gshrek-bot)](https://github.com/BiizoNinja/shrek-bot)
+<img align="right" alt="BiizoNinja's Top Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=BiizoNinja&repo=gshrek-bot)(https://github.com/BiizoNinja/shrek-bot)
