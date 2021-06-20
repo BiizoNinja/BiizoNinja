@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 ```js
-const Biizo = [
-  🌱 I’m currently learning JavaScript, C#...,
-  😄 Pronouns: He/Him ,
-  ⚡ Fun fact: I'm a human',
-  📫 How to reach me: Link in profile ,
-]
+const Biizo = {
+    Age: 14,
+    Description: "Hi, I'm Biizo and i like to code sumb stuff, you can find me on discord a LOT",
+    FavouriteLanguage: "Javascript/HTML-CSS/Java",
+    },
+    CreatedAt: 2019-09-17T00:56:31Z,
+    Stars: 405,
+    FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
+}; //I'm a Object. UwU
 ```
 
 
