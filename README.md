@@ -22,3 +22,4 @@ const Biizo = {
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiizoNinja&repo=shrek-bot&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiizoNinja&theme=radical)
