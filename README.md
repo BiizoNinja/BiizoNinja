@@ -20,6 +20,8 @@ const Biizo = {
 
 ![BiizoNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiizoNinja&show_icons=true&theme=radical)
 
+### Recommended Repo
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiizoNinja&repo=shrek-bot&theme=radical)
 
+### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiizoNinja&theme=radical)
