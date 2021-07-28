@@ -6,7 +6,7 @@ const Biizo = {
     Description: "Hi, I'm Biizo and i like to code dumb stuff, you can find me on discord a LOT.",
     FavouriteLanguage: "Javascript/HTML-CSS/Java",
     CreatedAt: 2021-10-5,
-    Stars: 4,
+    Stars: 6,
     FavouriteThings: ['Discord', 'Twitter', 'VS Code', 'GitHub', 'Life',]
 };
 ```
