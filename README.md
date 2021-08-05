@@ -25,7 +25,7 @@ const Biizo = ({
 
 <p>
 
-### GitHub Stats
+## GitHub Stats
 ![BiizoNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiizoNinja&show_icons=true&theme=radical)
 
 ### Recommended Repo
