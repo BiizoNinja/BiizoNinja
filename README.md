@@ -21,7 +21,6 @@ const Biizo = ({
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png">
 <img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png">
 <img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png">
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png">\n
 
 
 ### GitHub Stats
