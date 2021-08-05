@@ -1,4 +1,4 @@
-## Hi there <img src= "https://discord.com/assets/df7ba0f4020ca70048a0226d1dfa73f6.svg" alt='wave'>
+## Hi there <img src= "https://discord.com/assets/df7ba0f4020ca70048a0226d1dfa73f6.svg" alt='wave' width="22px">
 
 ```js
 const Biizo = ({
@@ -12,7 +12,7 @@ const Biizo = ({
 ```
 
 
-### Contact Me <img src="https://discord.com/assets/626aaed496ac12bbdb68a86b46871a1f.svg" alt="smile">
+### Contact Me <img src="https://discord.com/assets/626aaed496ac12bbdb68a86b46871a1f.svg" alt="smile" width="22px">
 <a rel="noreferrer noopener" href="https://discord.gg/V9DHGNtuUe"><img alt="BiizoNinja | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a><a rel="noreferrer noopener" href="https://twitter.com/BiizoNinja"><img alt="BiizoNinja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a><a rel="noreferrer noopener" href="https://instagram.com/BiizoNinja"><img alt="BiizoNinja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 
 ### Tools & Languages
