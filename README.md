@@ -23,6 +23,7 @@ const Biizo = ({
 <img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 
+<p>
 
 ### GitHub Stats
 ![BiizoNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiizoNinja&show_icons=true&theme=radical)
@@ -33,3 +34,4 @@ const Biizo = ({
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiizoNinja&theme=radical)
 
+</p>
