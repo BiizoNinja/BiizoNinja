@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ```js
 const Biizo = {
@@ -12,9 +12,17 @@ const Biizo = {
 ```
 
 
-## Contact Me
+### Contact Me
 
 <a rel="noreferrer noopener" href="https://discord.gg/V9DHGNtuUe"><img alt="BiizoNinja | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a><a rel="noreferrer noopener" href="https://twitter.com/BiizoNinja"><img alt="BiizoNinja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a><a rel="noreferrer noopener" href="https://instagram.com/BiizoNinja"><img alt="BiizoNinja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+
+### Tools & Languages
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
+<img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png" />
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 
 ### GitHub Stats
 
