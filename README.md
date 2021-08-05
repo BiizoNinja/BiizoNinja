@@ -13,15 +13,15 @@ const Biizo = ({
 
 
 ### Contact Me <img src="https://discord.com/assets/626aaed496ac12bbdb68a86b46871a1f.svg" alt="smile" width="22px">
-<a rel="noreferrer noopener" href="https://discord.gg/V9DHGNtuUe"><img alt="BiizoNinja | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a><a rel="noreferrer noopener" href="https://twitter.com/BiizoNinja"><img alt="BiizoNinja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a><a rel="noreferrer noopener" href="https://instagram.com/BiizoNinja"><img alt="BiizoNinja | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+<a rel="noreferrer noopener" href="https://discord.gg/V9DHGNtuUe"><img alt="BiizoNinja | Discord" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a><a rel="noreferrer noopener" href="https://twitter.com/BiizoNinja"><img alt="BiizoNinja | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a><a rel="noreferrer noopener" href="https://instagram.com/BiizoNinja"><img alt="BiizoNinja | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 
 ### Tools & Languages <img src="https://discord.com/assets/28a6206f93399999d1a908d5c45232ad.svg" alt="smile" width="22px">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
-<img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png">
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png">
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png">
+<img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png">
+<img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png">
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png">
 
 <p>
 
