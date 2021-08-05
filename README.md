@@ -22,9 +22,8 @@ const Biizo = ({
 <img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
 <img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
-<img align="left" alt="discord" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
+<img align="left" alt="discord" width="26px" src="https://www.freepnglogos.com/images/discord-logo-png-7617.html" />
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ### GitHub Stats
 ![BiizoNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiizoNinja&show_icons=true&theme=radical)
@@ -35,4 +34,3 @@ const Biizo = ({
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiizoNinja&theme=radical)
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
