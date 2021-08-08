@@ -10,6 +10,10 @@ const Biizo = ({
     FavouriteThings: ['Discord', 'Twitter', 'VS Code', 'GitHub', 'Life',]
 });
 ```
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
+<a href="https://discord.com/users/546631496673394688">
+<img src="https://discord.c99.nl/widget/theme-3/546631496673394688.png" alt="Discord"/>
+</a>
 
 
 ### Contact Me <img src="https://discord.com/assets/626aaed496ac12bbdb68a86b46871a1f.svg" alt="smile" width="22px">
