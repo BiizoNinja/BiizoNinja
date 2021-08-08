@@ -26,6 +26,7 @@ const Biizo = ({
 <img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png">
 <img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png">
 
+<br>
 
 ### GitHub Stats <img src="https://discord.com/assets/7b4003ce2786fcf382c6b1ba5ac08f24.svg" alt="bar" width="22px">
 ![BiizoNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiizoNinja&show_icons=true&theme=radical)
@@ -36,3 +37,4 @@ const Biizo = ({
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiizoNinja&theme=radical)
 
+</br>
