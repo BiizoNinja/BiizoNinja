@@ -14,8 +14,10 @@ const Biizo = ({
 <a href="https://discord.com/users/546631496673394688">
 <img src="https://discord.c99.nl/widget/theme-3/546631496673394688.png" alt="Discord"/>
 </a>
+
 <br>
-- Currently working on:[shrekbot](https://github.com/BiizoNinja/shrek-bot), MineStasher
+
+- Currently working on: [shrekbot](https://github.com/BiizoNinja/shrek-bot), MineStasher
 - I know:HTML, CSS, Python, JavaScript
 - I'm Learning right now: C#, C++, C
  
