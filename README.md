@@ -2,10 +2,10 @@
 
 ```js
 const Biizo = ({
-    Age: 14,
+    Age: 15,
     Description: "Hi, I'm Biizo and i like to code dumb stuff, you can find my my stuff on my socials. kek ",
     FavouriteLanguage: ['JavaScript' , 'HTML/CSS', 'Python'],
-    BornOn: 2006-10-5,
+    BornOn: 2007-10-5,
     Stars: 6,
     FavouriteThings: ['Discord', 'Twitter', 'VS Code', 'GitHub', 'Life',]
 });
