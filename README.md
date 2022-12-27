@@ -17,9 +17,9 @@ const Biizo = ({
 
 <br>
 
-- Currently working on: [shrekbot](https://github.com/BiizoNinja/shrek-bot), MineStasher
-- I know:HTML, CSS, Python, JavaScript
-- I'm Currently Learning: C#, C++, C
+- Currently working on: Learning/School
+- I know: HTML, CSS, Python, JavaScript, Java
+- I'm Currently Learning: C#, Python
  
 ### Contact Me <img src="https://discord.com/assets/626aaed496ac12bbdb68a86b46871a1f.svg" alt="smile" width="22px">
 <a rel="noreferrer noopener" href="https://discord.gg/V9DHGNtuUe"><img alt="BiizoNinja | Discord" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a><a rel="noreferrer noopener" href="https://twitter.com/BiizoNinja"><img alt="BiizoNinja | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
@@ -38,6 +38,7 @@ const Biizo = ({
 
 ### Recommended Repo
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiizoNinja&repo=shrek-bot&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiizoNinja&repo=random-text-game&theme=radical)
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiizoNinja&theme=radical)
