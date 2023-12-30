@@ -13,6 +13,7 @@ const Biizo = ({
 - Currently working on: Nothing 😂😆🤣
 - I'm fluent: HTML, CSS, Python, JavaScript, Java
 - I'm Currently Learning: C#, Python
+</br>
  
 ### Contact Me <img src="https://discord.com/assets/626aaed496ac12bbdb68a86b46871a1f.svg" alt="smile" width="22px">
 <a rel="noreferrer noopener" href="https://discord.gg/V9DHGNtuUe"><img alt="BiizoNinja | Discord" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a><a rel="noreferrer noopener" href="https://twitter.com/BiizoNinja"><img alt="BiizoNinja | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
